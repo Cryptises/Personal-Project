@@ -1,4 +1,23 @@
-//META{"name":"ReZero_Anime","description":"ReZero anime theme. Also this theme updates automatically so just reload and you're good.","author":"CreamCheese (C.C.)","version":"2.3"}*//
+//META{"name":"Red_Lu","description":"RedLu Personal anime theme. Also this theme updates automatically so just reload and you're good.","author":"Cryptises","version":"1"}*//
+
+/* 
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/
+Made by
+   ______      ______     
+ .' ___  |   .' ___  |    
+/ .'   \_|  / .'   \_|    
+| |         | |           
+\ `.___.'\ _\ `.___.'\ _  
+ `.____ .'(_)`.____ .'(_) 
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+Hex color for everything: #ffafafHex color for hovering: #ff8282
+Hex color for texts: #f9e5e5 
+*/
+
+@import url("https://raw.githubusercontent.com/Cryptises/Personal-Project/master/RedLu.css");
 
 {} /* Background */
 .app {
